@@ -4,3 +4,5 @@
 import getpass
 user = input("user:")
 passwd = getpass.getpass()
+print(user)
+print(passwd)
